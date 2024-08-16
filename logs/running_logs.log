@@ -1,1 +1,7 @@
 [2024-08-15 20:40:49,819: INFO: main: Welcome to the custom log:]
+[2024-08-16 05:23:33,121:INFO:main:>>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-08-16 05:23:33,123:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2024-08-16 05:23:33,124:INFO:common:yaml file: params.yaml loaded successfully]
+[2024-08-16 05:23:33,124:INFO:common:created directory at: artifacts]
+[2024-08-16 05:23:33,124:INFO:common:created directory at: artifacts/data_ingestion]
+[2024-08-16 05:23:33,125:INFO:data_ingestion:File already exists of size: ~ 1589765 KB]
