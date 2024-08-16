@@ -1,1 +1,8 @@
-key: val
+kAUGMENTATION: True
+IMAGE_SIZE: [244,244,3] #as oer VGG 16 Model
+BATCH_SIZE: 16
+INCLUDE_TOP: False #we do not want dense layer hence keep it false
+EPOCHS: 100
+CLASSES: 2
+WEIGHTS: imagenet
+LEARNING_RATE: 0.01
